@@ -1,0 +1,42 @@
+{
+	"zh": {
+		"MockCol.MockCol.244853-0": "添加成功",
+		"MockCol.MockCol.244853-1": "保存成功",
+		"MockCol.MockCol.244853-2": "删除成功",
+		"MockCol.MockCol.244853-3": "修改成功",
+		"MockCol.MockCol.244853-4": "无过滤",
+		"MockCol.MockCol.244853-5": "期望名称",
+		"MockCol.MockCol.244853-6": "创建人",
+		"MockCol.MockCol.244853-7": "编辑时间",
+		"MockCol.MockCol.244853-8": "操作",
+		"MockCol.MockCol.244853-9": "编辑",
+		"MockCol.MockCol.244853-10": "你确定要删除这条期望?",
+		"MockCol.MockCol.244853-11": "确定",
+		"MockCol.MockCol.244853-12": "取消",
+		"MockCol.MockCol.244853-13": "删除",
+		"MockCol.MockCol.244853-14": "已开启",
+		"MockCol.MockCol.244853-15": "未开启",
+		"MockCol.MockCol.244853-16": "添加期望",
+		"MockCol.MockCol.244853-17": "点击查看文档"
+	},
+	"en": {
+		"MockCol.MockCol.244853-0": "Successfully added",
+		"MockCol.MockCol.244853-1": "Save successful",
+		"MockCol.MockCol.244853-2": "Delete successful",
+		"MockCol.MockCol.244853-3": "Modified successfully",
+		"MockCol.MockCol.244853-4": "No filtering",
+		"MockCol.MockCol.244853-5": "Expected Name",
+		"MockCol.MockCol.244853-6": "Creator",
+		"MockCol.MockCol.244853-7": "Editing time",
+		"MockCol.MockCol.244853-8": "operation",
+		"MockCol.MockCol.244853-9": "edit",
+		"MockCol.MockCol.244853-10": "Are you sure you want to delete this expectation?",
+		"MockCol.MockCol.244853-11": "Confirm",
+		"MockCol.MockCol.244853-12": "Cancel",
+		"MockCol.MockCol.244853-13": "Delete",
+		"MockCol.MockCol.244853-14": "Opened",
+		"MockCol.MockCol.244853-15": "Not enabled",
+		"MockCol.MockCol.244853-16": "Add Expectations",
+		"MockCol.MockCol.244853-17": "Click to view the document"
+	}
+}

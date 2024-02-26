@@ -1,0 +1,16 @@
+{
+	"zh": {
+		"Services.Services.743139-0": "安装工具",
+		"Services.Services.743139-1": "配置【3.2.0及以上版本】",
+		"Services.Services.743139-2": "配置【3.2.0以下版本】",
+		"Services.Services.743139-3": "生成services代码",
+		"Services.Services.743139-4": "更多说明"
+	},
+	"en": {
+		"Services.Services.743139-0": "Installation tools",
+		"Services.Services.743139-1": "Configuration 【 Version 3.2.0 and above 】",
+		"Services.Services.743139-2": "Configuration [versions below 3.2.0]",
+		"Services.Services.743139-3": "Generate services code",
+		"Services.Services.743139-4": "More explanation"
+	}
+}

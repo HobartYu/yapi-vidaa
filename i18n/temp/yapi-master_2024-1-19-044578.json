@@ -1,0 +1,20 @@
+{
+	"zh": {
+		"MockDoc.MockDoc.044434-0": "/ /类型：",
+		"MockDoc.MockDoc.044434-1": "必有字段",
+		"MockDoc.MockDoc.044434-2": "备注：",
+		"MockDoc.MockDoc.044434-3": "错误编码",
+		"MockDoc.MockDoc.044434-4": "返回数据",
+		"MockDoc.MockDoc.044434-5": "数据名",
+		"MockDoc.MockDoc.044434-6": "数据名1"
+	},
+	"en": {
+		"MockDoc.MockDoc.044434-0": "//Type: ",
+		"MockDoc.MockDoc.044434-1": "Must have fields",
+		"MockDoc.MockDoc.044434-2": "Remarks: ",
+		"MockDoc.MockDoc.044434-3": "Error code",
+		"MockDoc.MockDoc.044434-4": "Return data",
+		"MockDoc.MockDoc.044434-5": "Data Name",
+		"MockDoc.MockDoc.044434-6": "Data Name 1"
+	}
+}

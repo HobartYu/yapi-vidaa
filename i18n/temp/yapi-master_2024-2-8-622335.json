@@ -1,0 +1,14 @@
+{
+	"zh": {
+		"common.HandleImportData.622163-0": "正在导入，已执行任务 {index} 个，共 {len} 个",
+		"common.HandleImportData.622163-1": "解析数据为空",
+		"common.HandleImportData.622163-2": "没有权限",
+		"common.HandleImportData.622163-3": "成功导入接口 {successNum} 个, 已存在的接口 {existNum} 个"
+	},
+	"en": {
+		"common.HandleImportData.622163-0": "Importing, task {index} executed out of {len}",
+		"common.HandleImportData.622163-1": "Parsing data as empty",
+		"common.HandleImportData.622163-2": "No permission",
+		"common.HandleImportData.622163-3": "Successfully imported {successNum} interfaces and {existNum} existing interfaces"
+	}
+}

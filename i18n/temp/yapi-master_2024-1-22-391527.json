@@ -1,0 +1,28 @@
+{
+	"zh": {
+		"GroupList.GroupList.391348-0": "欢迎使用 YApi ~",
+		"GroupList.GroupList.391348-1": "这里的",
+		"GroupList.GroupList.391348-2": "“个人空间”",
+		"GroupList.GroupList.391348-3": "是你自己才能看到的分组，你拥有这个分组的全部权限，可以在这个分组里探索 YApi 的功能。",
+		"GroupList.GroupList.391348-4": "添加分组",
+		"GroupList.GroupList.391348-5": "简介:",
+		"GroupList.GroupList.391348-6": "搜索分类",
+		"GroupList.GroupList.391348-7": "分组名：",
+		"GroupList.GroupList.391348-8": "请输入分组名称",
+		"GroupList.GroupList.391348-10": "请输入分组描述",
+		"GroupList.GroupList.391348-11": "组长："
+	},
+	"en": {
+		"GroupList.GroupList.391348-0": "Welcome to YApi~",
+		"GroupList.GroupList.391348-1": "",
+		"GroupList.GroupList.391348-2": "\"Personal Space\"",
+		"GroupList.GroupList.391348-3": "is a group that you can only see yourself, and you have all the permissions to explore the functions of YApi in this group.",
+		"GroupList.GroupList.391348-4": "Add Group",
+		"GroupList.GroupList.391348-5": "Introduction:",
+		"GroupList.GroupList.391348-6": "Search classification",
+		"GroupList.GroupList.391348-7": "Group name:",
+		"GroupList.GroupList.391348-8": "Please enter the group name",
+		"GroupList.GroupList.391348-10": "Please enter a group description",
+		"GroupList.GroupList.391348-11": "Team Leader:"
+	}
+}

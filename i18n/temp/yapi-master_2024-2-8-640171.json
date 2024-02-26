@@ -1,0 +1,20 @@
+{
+	"zh": {
+		"common.utils.639895-0": "年前",
+		"common.utils.639895-1": "月前",
+		"common.utils.639895-2": "天前",
+		"common.utils.639895-3": "小时前",
+		"common.utils.639895-4": "分钟前",
+		"common.utils.639895-5": "刚刚",
+		"common.utils.639895-6": "秒前"
+	},
+	"en": {
+		"common.utils.639895-0": "years ago",
+		"common.utils.639895-1": "months ago",
+		"common.utils.639895-2": "days ago",
+		"common.utils.639895-3": "hours ago",
+		"common.utils.639895-4": "minutes ago",
+		"common.utils.639895-5": "just now",
+		"common.utils.639895-6": "seconds ago"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"zh": {
+		"InterfaceList.AddInterfaceCatForm.896256-0": "分类名",
+		"InterfaceList.AddInterfaceCatForm.896256-1": "请输入分类名称!",
+		"InterfaceList.AddInterfaceCatForm.896256-2": "分类名称",
+		"InterfaceList.AddInterfaceCatForm.896256-3": "备注",
+		"InterfaceList.AddInterfaceCatForm.896256-4": "取消",
+		"InterfaceList.AddInterfaceCatForm.896256-5": "提交"
+	},
+	"en": {
+		"InterfaceList.AddInterfaceCatForm.896256-0": "Class name",
+		"InterfaceList.AddInterfaceCatForm.896256-1": "Please enter a category name!",
+		"InterfaceList.AddInterfaceCatForm.896256-2": "Category name",
+		"InterfaceList.AddInterfaceCatForm.896256-3": "remark",
+		"InterfaceList.AddInterfaceCatForm.896256-4": "Cancel",
+		"InterfaceList.AddInterfaceCatForm.896256-5": "Submit"
+	}
+}

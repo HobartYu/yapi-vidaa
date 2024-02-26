@@ -1,0 +1,24 @@
+{
+	"zh": {
+		"ProjectEnv.index.798126-0": "新环境",
+		"ProjectEnv.index.798126-1": "修改成功!",
+		"ProjectEnv.index.798126-2": "环境设置不成功",
+		"ProjectEnv.index.798126-3": "您确认删除此环境变量?",
+		"ProjectEnv.index.798126-4": "确定",
+		"ProjectEnv.index.798126-5": "取消",
+		"ProjectEnv.index.798126-6": "环境列表",
+		"ProjectEnv.index.798126-7": "在这里添加项目的环境配置",
+		"ProjectEnv.index.798126-8": "添加环境变量"
+	},
+	"en": {
+		"ProjectEnv.index.798126-0": "New environment",
+		"ProjectEnv.index.798126-1": "Modified successfully!",
+		"ProjectEnv.index.798126-2": "Environment setting unsuccessful",
+		"ProjectEnv.index.798126-3": "Are you sure you want to delete this environment variable?",
+		"ProjectEnv.index.798126-4": "confirm",
+		"ProjectEnv.index.798126-5": "cancel",
+		"ProjectEnv.index.798126-6": "Environment List",
+		"ProjectEnv.index.798126-7": "Add project environment configuration here",
+		"ProjectEnv.index.798126-8": "Add environment variables"
+	}
+}

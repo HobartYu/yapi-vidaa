@@ -1,0 +1,12 @@
+{
+	"zh": {
+		"statisticsClientPage.StatisChart.869579-0": "mock 接口访问总数为：",
+		"statisticsClientPage.StatisChart.869579-1": "mock统计值",
+		"statisticsClientPage.StatisChart.869579-2": "过去3个月mock接口调用情况"
+	},
+	"en": {
+		"statisticsClientPage.StatisChart.869579-0": "The total number of mock interface accesses is:",
+		"statisticsClientPage.StatisChart.869579-1": "Mock statistics",
+		"statisticsClientPage.StatisChart.869579-2": "Mock interface calls in the past three months"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"zh": {
+		"statisticsClientPage.StatisTable.962079-0": "项目",
+		"statisticsClientPage.StatisTable.962079-1": "接口",
+		"statisticsClientPage.StatisTable.962079-2": "mock数据",
+		"statisticsClientPage.StatisTable.962079-3": "分组数据详情"
+	},
+	"en": {
+		"statisticsClientPage.StatisTable.962079-0": "project",
+		"statisticsClientPage.StatisTable.962079-1": "interface",
+		"statisticsClientPage.StatisTable.962079-2": "Mock data",
+		"statisticsClientPage.StatisTable.962079-3": "Group data details"
+	}
+}

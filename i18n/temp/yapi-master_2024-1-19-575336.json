@@ -1,0 +1,14 @@
+{
+	"zh": {
+		"Notify.Notify.575185-0": "无法获取新版本信息！",
+		"Notify.Notify.575185-1": "当前版本是：",
+		"Notify.Notify.575185-2": "可升级到:",
+		"Notify.Notify.575185-3": "版本详情"
+	},
+	"en": {
+		"Notify.Notify.575185-0": "Unable to obtain new version information!",
+		"Notify.Notify.575185-1": "The current version is:",
+		"Notify.Notify.575185-2": "Upgradeable to:",
+		"Notify.Notify.575185-3": "Version details"
+	}
+}

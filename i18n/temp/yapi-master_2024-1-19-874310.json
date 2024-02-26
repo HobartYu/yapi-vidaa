@@ -1,0 +1,10 @@
+{
+	"zh": {
+		"Postman.CheckCrossInstall.874179-0": "重要：当前的接口测试服务，需安装免费测试增强插件,仅支持 chrome浏览器，选择下面任意一种安装方式：",
+		"Postman.CheckCrossInstall.874179-1": "[谷歌请求插件详细安装教程]"
+	},
+	"en": {
+		"Postman.CheckCrossInstall.874179-0": "Important: The current interface testing service requires the installation of a free testing enhancement plugin, which only supports Chrome browser. Choose any of the following installation methods:",
+		"Postman.CheckCrossInstall.874179-1": "[Google Request Plugin Detailed Installation Tutorial]"
+	}
+}

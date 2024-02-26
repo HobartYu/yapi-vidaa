@@ -1,0 +1,12 @@
+{
+	"zh": {
+		"MyPopConfirm.MyPopConfirm.283680-0": "你即将离开编辑页面",
+		"MyPopConfirm.MyPopConfirm.283680-1": "取 消",
+		"MyPopConfirm.MyPopConfirm.283680-2": "确 定"
+	},
+	"en": {
+		"MyPopConfirm.MyPopConfirm.283680-0": "You are about to leave the editing page",
+		"MyPopConfirm.MyPopConfirm.283680-1": "Cancel",
+		"MyPopConfirm.MyPopConfirm.283680-2": "Confirm"
+	}
+}

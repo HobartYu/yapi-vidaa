@@ -1,0 +1,22 @@
+{
+	"zh": {
+		"Login.Login.423150-0": "登录成功!",
+		"Login.Login.423150-1": "请输入正确的email!",
+		"Login.Login.423150-2": "普通登录",
+		"Login.Login.423150-3": "请输入密码!",
+		"Login.Login.423150-4": "登录",
+		"Login.Login.423150-5": "注册",
+		"Login.Login.423150-6": "管理员已禁止注册，请联系管理员",
+		"Login.Login.423150-7": "请选择语言"
+	},
+	"en": {
+		"Login.Login.423150-0": "Login successful!",
+		"Login.Login.423150-1": "Please enter the correct email!",
+		"Login.Login.423150-2": "Normal login",
+		"Login.Login.423150-3": "Please enter your password!",
+		"Login.Login.423150-4": "Login",
+		"Login.Login.423150-5": "Register",
+		"Login.Login.423150-6": "The administrator has banned registration. Please contact the administrator",
+		"Login.Login.423150-7": "Please select language!"
+	}
+}

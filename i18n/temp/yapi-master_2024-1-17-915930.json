@@ -1,0 +1,16 @@
+{
+	"zh": {
+		"Search.Search.915751-0": "分组: ",
+		"Search.Search.915751-1": "项目: ",
+		"Search.Search.915751-2": "接口: ",
+		"Search.Search.915751-3": "查询项目或分组失败",
+		"Search.Search.915751-4": "搜索分组/项目/接口"
+	},
+	"en": {
+		"Search.Search.915751-0": "Grouping: ",
+		"Search.Search.915751-1": "Project: ",
+		"Search.Search.915751-2": "Interface: ",
+		"Search.Search.915751-3": "Failed to query items or groups",
+		"Search.Search.915751-4": "Search groups/projects/interfaces"
+	}
+}

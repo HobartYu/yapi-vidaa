@@ -1,0 +1,16 @@
+{
+	"zh": {
+		"Setting.Setting.405099-0": "项目配置",
+		"Setting.Setting.405099-1": "环境配置",
+		"Setting.Setting.405099-2": "请求配置",
+		"Setting.Setting.405099-3": "token配置",
+		"Setting.Setting.405099-4": "全局mock脚本"
+	},
+	"en": {
+		"Setting.Setting.405099-0": "Project Configuration",
+		"Setting.Setting.405099-1": "Environmental configuration",
+		"Setting.Setting.405099-2": "Request configuration",
+		"Setting.Setting.405099-3": "Token configuration",
+		"Setting.Setting.405099-4": "Global mock script"
+	}
+}

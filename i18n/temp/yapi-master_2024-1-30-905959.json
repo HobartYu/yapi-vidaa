@@ -1,0 +1,42 @@
+{
+	"zh": {
+		"ProjectList.UpDateModal.905275-0": "修改成功!",
+		"ProjectList.UpDateModal.905275-1": "环境名称",
+		"ProjectList.UpDateModal.905275-2": "请输入环境域名",
+		"ProjectList.UpDateModal.905275-3": "环境域名不能是\"prd\"",
+		"ProjectList.UpDateModal.905275-4": "请输入环境名称",
+		"ProjectList.UpDateModal.905275-5": "环境域名",
+		"ProjectList.UpDateModal.905275-6": "修改项目",
+		"ProjectList.UpDateModal.905275-7": "项目名称",
+		"ProjectList.UpDateModal.905275-8": "请输入项目名称!",
+		"ProjectList.UpDateModal.905275-9": "线上域名",
+		"ProjectList.UpDateModal.905275-10": "将根据配置的线上域名访问mock数据",
+		"ProjectList.UpDateModal.905275-11": "请输入项目线上域名!",
+		"ProjectList.UpDateModal.905275-12": "基本路径",
+		"ProjectList.UpDateModal.905275-13": "基本路径为空表示根路径",
+		"ProjectList.UpDateModal.905275-14": "请输入项目基本路径!",
+		"ProjectList.UpDateModal.905275-15": "描述",
+		"ProjectList.UpDateModal.905275-16": "请输入描述!",
+		"ProjectList.UpDateModal.905275-17": "添加环境配置"
+	},
+	"en": {
+		"ProjectList.UpDateModal.905275-0": "Modified successfully!",
+		"ProjectList.UpDateModal.905275-1": "Environment name",
+		"ProjectList.UpDateModal.905275-2": "Please enter the environment domain name",
+		"ProjectList.UpDateModal.905275-3": "The environment domain name cannot be 'prd'",
+		"ProjectList.UpDateModal.905275-4": "Please enter the environment name",
+		"ProjectList.UpDateModal.905275-5": "Environmental domain name",
+		"ProjectList.UpDateModal.905275-6": "Modify project",
+		"ProjectList.UpDateModal.905275-7": "entry name",
+		"ProjectList.UpDateModal.905275-8": "Please enter the project name!",
+		"ProjectList.UpDateModal.905275-9": "Online domain name",
+		"ProjectList.UpDateModal.905275-10": "Access mock data will be based on the configured online domain name",
+		"ProjectList.UpDateModal.905275-11": "Please enter the online domain name for the project!",
+		"ProjectList.UpDateModal.905275-12": "Basic path",
+		"ProjectList.UpDateModal.905275-13": "Empty basic path indicates root path",
+		"ProjectList.UpDateModal.905275-14": "Please enter the basic project path!",
+		"ProjectList.UpDateModal.905275-15": "describe",
+		"ProjectList.UpDateModal.905275-16": "Please enter a description!",
+		"ProjectList.UpDateModal.905275-17": "Add environment configuration"
+	}
+}

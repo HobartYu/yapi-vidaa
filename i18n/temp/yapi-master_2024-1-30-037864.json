@@ -1,0 +1,16 @@
+{
+	"zh": {
+		"ProjectList.ProjectList.037698-0": "我的关注",
+		"ProjectList.ProjectList.037698-1": "我的项目",
+		"ProjectList.ProjectList.037698-2": "{groupName} 分组共 {length} 个项目",
+		"ProjectList.ProjectList.037698-4": "添加项目",
+		"ProjectList.ProjectList.037698-5": "您没有权限,请联系该分组组长或管理员"
+	},
+	"en": {
+		"ProjectList.ProjectList.037698-0": "My following",
+		"ProjectList.ProjectList.037698-1": "My project",
+		"ProjectList.ProjectList.037698-2": "{groupName} groups a total of {length} items",
+		"ProjectList.ProjectList.037698-4": "Add item",
+		"ProjectList.ProjectList.037698-5": "You do not have permission. Please contact the group leader or administrator for assistance"
+	}
+}

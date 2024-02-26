@@ -1,0 +1,24 @@
+{
+	"zh": {
+		"InterfaceList.AddInterfaceForm.010380-0": "接口分类",
+		"InterfaceList.AddInterfaceForm.010380-1": "接口名称",
+		"InterfaceList.AddInterfaceForm.010380-2": "接口",
+		"InterfaceList.AddInterfaceForm.010380-3": "接口路径",
+		"InterfaceList.AddInterfaceForm.010380-4": "请输入接口路径!",
+		"InterfaceList.AddInterfaceForm.010380-5": "注",
+		"InterfaceList.AddInterfaceForm.010380-6": "详细的接口数据可以在编辑页面中添加",
+		"InterfaceList.AddInterfaceForm.010380-7": "取消",
+		"InterfaceList.AddInterfaceForm.010380-8": "提交"
+	},
+	"en": {
+		"InterfaceList.AddInterfaceForm.010380-0": "Interface classification",
+		"InterfaceList.AddInterfaceForm.010380-1": "Interface Name",
+		"InterfaceList.AddInterfaceForm.010380-2": "interface",
+		"InterfaceList.AddInterfaceForm.010380-3": "Interface path",
+		"InterfaceList.AddInterfaceForm.010380-4": "Please enter the interface path!",
+		"InterfaceList.AddInterfaceForm.010380-5": "notes",
+		"InterfaceList.AddInterfaceForm.010380-6": "Detailed interface data can be added on the editing page",
+		"InterfaceList.AddInterfaceForm.010380-7": "cancel",
+		"InterfaceList.AddInterfaceForm.010380-8": "Submit"
+	}
+}

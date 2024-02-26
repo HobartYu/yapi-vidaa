@@ -1,0 +1,40 @@
+{
+	"zh": {
+		"InterfaceList.InterfaceMenu.894162-0": "接口添加成功",
+		"InterfaceList.InterfaceMenu.894162-1": "接口分类添加成功",
+		"InterfaceList.InterfaceMenu.894162-2": "接口分类更新成功",
+		"InterfaceList.InterfaceMenu.894162-3": "您确认删除此接口????",
+		"InterfaceList.InterfaceMenu.894162-4": "温馨提示：接口删除后，无法恢复",
+		"InterfaceList.InterfaceMenu.894162-5": "确认",
+		"InterfaceList.InterfaceMenu.894162-6": "取消",
+		"InterfaceList.InterfaceMenu.894162-7": "确定删除此接口分类吗？",
+		"InterfaceList.InterfaceMenu.894162-8": "温馨提示：该操作会删除该分类下所有接口，接口删除后无法恢复",
+		"InterfaceList.InterfaceMenu.894162-9": "搜索接口",
+		"InterfaceList.InterfaceMenu.894162-10": "添加分类",
+		"InterfaceList.InterfaceMenu.894162-11": "添加接口",
+		"InterfaceList.InterfaceMenu.894162-12": "修改分类",
+		"InterfaceList.InterfaceMenu.894162-13": "删除接口",
+		"InterfaceList.InterfaceMenu.894162-14": "复制接口",
+		"InterfaceList.InterfaceMenu.894162-15": "全部接口",
+		"InterfaceList.InterfaceMenu.894162-16": "删除分类"
+	},
+	"en": {
+		"InterfaceList.InterfaceMenu.894162-0": "Interface added successfully",
+		"InterfaceList.InterfaceMenu.894162-1": "Interface classification added successfully",
+		"InterfaceList.InterfaceMenu.894162-2": "Interface classification update successful",
+		"InterfaceList.InterfaceMenu.894162-3": "Are you sure you want to delete this interface?",
+		"InterfaceList.InterfaceMenu.894162-4": "Kind reminder: After deleting the interface, it cannot be restored",
+		"InterfaceList.InterfaceMenu.894162-5": "confirm",
+		"InterfaceList.InterfaceMenu.894162-6": "cancel",
+		"InterfaceList.InterfaceMenu.894162-7": "Are you sure to delete this interface classification?",
+		"InterfaceList.InterfaceMenu.894162-8": "Kind reminder: This operation will delete all interfaces under this category, and deleting an interface cannot be restored",
+		"InterfaceList.InterfaceMenu.894162-9": "Search interface",
+		"InterfaceList.InterfaceMenu.894162-10": "Add classification",
+		"InterfaceList.InterfaceMenu.894162-11": "Add Interface",
+		"InterfaceList.InterfaceMenu.894162-12": "Modify classification",
+		"InterfaceList.InterfaceMenu.894162-13": "Delete Interface",
+		"InterfaceList.InterfaceMenu.894162-14": "Copy Interface",
+		"InterfaceList.InterfaceMenu.894162-15": "All interfaces",
+		"InterfaceList.InterfaceMenu.894162-16": "Delete classification"
+	}
+}

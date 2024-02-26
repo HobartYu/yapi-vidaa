@@ -1,0 +1,10 @@
+{
+	"zh": {
+		"ProjectMessage.ProjectTag.698917-0": "请输入 {name} 名称",
+		"ProjectMessage.ProjectTag.698917-1": "请输入tag 描述信息"
+	},
+	"en": {
+		"ProjectMessage.ProjectTag.698917-0": "Please enter {name} name",
+		"ProjectMessage.ProjectTag.698917-1": "Please enter tag description information"
+	}
+}

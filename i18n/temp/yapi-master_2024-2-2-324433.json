@@ -1,0 +1,30 @@
+{
+	"zh": {
+		"Run.AddColModal.324101-0": "添加集合成功",
+		"Run.AddColModal.324101-1": "添加到集合",
+		"Run.AddColModal.324101-2": "接口用例名：",
+		"Run.AddColModal.324101-3": "请输入接口用例名称",
+		"Run.AddColModal.324101-4": "请选择添加到的集合：",
+		"Run.AddColModal.324101-5": "暂无集合，请添加！",
+		"Run.AddColModal.324101-6": "添加新集合",
+		"Run.AddColModal.324101-7": "集合名：",
+		"Run.AddColModal.324101-8": "请输入集合名称",
+		"Run.AddColModal.324101-9": "简介：",
+		"Run.AddColModal.324101-10": "请输入集合描述",
+		"Run.AddColModal.324101-11": "添 加"
+	},
+	"en": {
+		"Run.AddColModal.324101-0": "Successfully added collection",
+		"Run.AddColModal.324101-1": "Add to Collection",
+		"Run.AddColModal.324101-2": "Interface Case Name:",
+		"Run.AddColModal.324101-3": "Please enter the name of the interface use case",
+		"Run.AddColModal.324101-4": "Please select the set to add to:",
+		"Run.AddColModal.324101-5": "There is currently no collection available, please add it!",
+		"Run.AddColModal.324101-6": "Add new collection",
+		"Run.AddColModal.324101-7": "Collection name:",
+		"Run.AddColModal.324101-8": "Please enter the set name",
+		"Run.AddColModal.324101-9": "Introduction:",
+		"Run.AddColModal.324101-10": "Please enter a set description",
+		"Run.AddColModal.324101-11": "Add"
+	}
+}

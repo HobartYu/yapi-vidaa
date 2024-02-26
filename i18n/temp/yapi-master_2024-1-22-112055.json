@@ -1,0 +1,36 @@
+{
+	"zh": {
+		"AddProject.AddProject.111724-0": "创建成功!",
+		"AddProject.AddProject.111724-1": "新建项目",
+		"AddProject.AddProject.111724-2": "项目名称",
+		"AddProject.AddProject.111724-3": "项目",
+		"AddProject.AddProject.111724-4": "所属分组",
+		"AddProject.AddProject.111724-5": "请选择项目所属的分组!",
+		"AddProject.AddProject.111724-6": "基本路径",
+		"AddProject.AddProject.111724-7": "接口基本路径，为空是根路径",
+		"AddProject.AddProject.111724-8": "请输入项目基本路径",
+		"AddProject.AddProject.111724-9": "描述",
+		"AddProject.AddProject.111724-10": "描述不超过144字!",
+		"AddProject.AddProject.111724-11": "权限",
+		"AddProject.AddProject.111724-12": "私有",
+		"AddProject.AddProject.111724-13": "只有组长和项目开发者可以索引并查看项目信息",
+		"AddProject.AddProject.111724-14": "创建项目"
+	},
+	"en": {
+		"AddProject.AddProject.111724-0": "Created successfully!",
+		"AddProject.AddProject.111724-1": "New Project",
+		"AddProject.AddProject.111724-2": "entry name",
+		"AddProject.AddProject.111724-3": "project",
+		"AddProject.AddProject.111724-4": "Group to which it belongs",
+		"AddProject.AddProject.111724-5": "Please select the group to which the project belongs!",
+		"AddProject.AddProject.111724-6": "Basic path",
+		"AddProject.AddProject.111724-7": "Interface basic path, empty is the root path",
+		"AddProject.AddProject.111724-8": "Please enter the basic project path",
+		"AddProject.AddProject.111724-9": "describe",
+		"AddProject.AddProject.111724-10": "Description should not exceed 144 words!",
+		"AddProject.AddProject.111724-11": "authority",
+		"AddProject.AddProject.111724-12": "private",
+		"AddProject.AddProject.111724-13": "Only team leaders and project developers can index and view project information",
+		"AddProject.AddProject.111724-14": "Create project"
+	}
+}

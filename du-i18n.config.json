@@ -1,0 +1,23 @@
+{
+	"quoteKeys": [
+		"i18n"
+	],
+	"defaultLang": "zh",
+	"tempLangs": [
+		"zh",
+		"en"
+	],
+	"langPaths": "**/i18n/locale/**",
+	"transSourcePaths": "**/i18n/source/**",
+	"tempPaths": "**/i18n/temp/**",
+	"tempFileName": "",
+	"multiFolders": [
+		"src",
+		"pages"
+	],
+	"uncheckMissKeys": [],
+	"isSingleQuote": true,
+	"isOnlineTrans": true,
+	"baiduAppid": "20240112001939206",
+	"baiduSecrectKey": "70pRJn81pv3pv_YzWcRY"
+}
