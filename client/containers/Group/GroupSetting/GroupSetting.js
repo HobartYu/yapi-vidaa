@@ -163,7 +163,7 @@ class GroupSetting extends Component {
   showConfirm = () => {
     const that = this;
     confirm({
-      title: '确认删除 ' + that.props.currGroup.group_name + ' 分组吗？',
+      title: i18n('GroupSetting.GroupSetting.265156-4', { group: that.props.currGroup.group_name}),
       content: (
         <div style={{ marginTop: '10px', fontSize: '13px', lineHeight: '25px' }}>
           <Alert

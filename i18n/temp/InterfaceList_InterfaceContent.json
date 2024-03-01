@@ -1,0 +1,22 @@
+{
+	"zh": {
+		"InterfaceList.InterfaceContent.589922-0": "YApi-高效、易用、功能强大的可视化接口管理平台",
+		"InterfaceList.InterfaceContent.589922-1": "预览",
+		"InterfaceList.InterfaceContent.589922-2": "编辑",
+		"InterfaceList.InterfaceContent.589922-3": "运行",
+		"InterfaceList.InterfaceContent.589922-4": "离开页面会丢失当前编辑的内容，确定要离开吗？",
+		"InterfaceList.InterfaceContent.589922-5": "你即将离开编辑页面",
+		"InterfaceList.InterfaceContent.589922-6": "取 消",
+		"InterfaceList.InterfaceContent.589922-7": "确 定"
+	},
+	"en": {
+		"InterfaceList.InterfaceContent.589922-0": "YApi - Efficient, easy-to-use, and powerful visual interface management platform",
+		"InterfaceList.InterfaceContent.589922-1": "Preview",
+		"InterfaceList.InterfaceContent.589922-2": "Edit",
+		"InterfaceList.InterfaceContent.589922-3": "Working",
+		"InterfaceList.InterfaceContent.589922-4": "Leaving the page will lose the currently edited content. Are you sure you want to leave?",
+		"InterfaceList.InterfaceContent.589922-5": "You are about to leave the editing page",
+		"InterfaceList.InterfaceContent.589922-6": "Cancel",
+		"InterfaceList.InterfaceContent.589922-7": "Confirm"
+	}
+}

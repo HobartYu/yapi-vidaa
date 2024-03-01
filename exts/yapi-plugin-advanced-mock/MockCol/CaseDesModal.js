@@ -350,7 +350,7 @@ class CaseDesForm extends Component {
             {getFieldDecorator('name', {
               initialValue: name,
               rules: [{ required: true, message: i18n('MockCol.CaseDesModal.641830-7') }]
-            })(<Input placeholder={i18n('MockCol.CaseDesModal.641830-8')} />)}
+            })(<Input placeholder={i18n('MockCol.CaseDesModal.641830-7')} />)}
           </FormItem>
           <FormItem {...formItemLayout} label={i18n('MockCol.CaseDesModal.641830-9')} className="ip-filter">
             <Col span={6} className="ip-switch">
@@ -449,7 +449,7 @@ class CaseDesForm extends Component {
             {getFieldDecorator('delay', {
               initialValue: delay,
               rules: [{ required: true, message: i18n('MockCol.CaseDesModal.641830-17'), type: 'integer' }]
-            })(<InputNumber placeholder={i18n('MockCol.CaseDesModal.641830-18')} min={0} />)}
+            })(<InputNumber placeholder={i18n('MockCol.CaseDesModal.641830-17')} min={0} />)}
             <span>ms</span>
           </FormItem>
           {headersTpl(headers, 'HTTP Header')}

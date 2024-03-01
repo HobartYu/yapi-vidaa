@@ -14,6 +14,7 @@ import { pickRandomProperty, handlePath, nameLengthLimit } from '../../common';
 import constants from '../../constants/variable.js';
 import { withRouter } from 'react-router';
 import './Addproject.scss';
+import i18n from '../../../i18n';
 
 const formItemLayout = {
   labelCol: {

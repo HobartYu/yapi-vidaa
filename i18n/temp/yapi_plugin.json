@@ -1,0 +1,24 @@
+{
+	"zh": {
+		"yapi-plugin-advanced-mock.AdvMock.470228-0": "保存成功",
+		"yapi-plugin-advanced-mock.AdvMock.470228-1": "期望",
+		"yapi-plugin-advanced-mock.AdvMock.470228-2": "脚本",
+		"yapi-plugin-advanced-mock.AdvMock.470228-3": "是否开启",
+		"yapi-plugin-advanced-mock.AdvMock.470228-4": "点击查看文档",
+		"yapi-plugin-advanced-mock.AdvMock.470228-5": "开",
+		"yapi-plugin-advanced-mock.AdvMock.470228-6": "关",
+		"yapi-plugin-advanced-mock.AdvMock.470228-7": "Mock脚本",
+		"yapi-plugin-advanced-mock.AdvMock.470228-8": "保存"
+	},
+	"en": {
+		"yapi-plugin-advanced-mock.AdvMock.470228-0": "Save successful",
+		"yapi-plugin-advanced-mock.AdvMock.470228-1": "Expect",
+		"yapi-plugin-advanced-mock.AdvMock.470228-2": "Script",
+		"yapi-plugin-advanced-mock.AdvMock.470228-3": "Is it enabled",
+		"yapi-plugin-advanced-mock.AdvMock.470228-4": "Click to view the document",
+		"yapi-plugin-advanced-mock.AdvMock.470228-5": "On",
+		"yapi-plugin-advanced-mock.AdvMock.470228-6": "Off",
+		"yapi-plugin-advanced-mock.AdvMock.470228-7": "Mock script",
+		"yapi-plugin-advanced-mock.AdvMock.470228-8": "Save"
+	}
+}

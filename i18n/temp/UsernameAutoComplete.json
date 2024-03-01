@@ -1,0 +1,10 @@
+{
+	"zh": {
+		"UsernameAutoComplete.UsernameAutoComplete.576425-0": "请输入用户名",
+		"UsernameAutoComplete.UsernameAutoComplete.576425-1": "当前用户不存在"
+	},
+	"en": {
+		"UsernameAutoComplete.UsernameAutoComplete.576425-0": "Please enter user name",
+		"UsernameAutoComplete.UsernameAutoComplete.576425-1": "The current user does not exist"
+	}
+}

@@ -1,6 +1,7 @@
 import React, { PureComponent as Component } from 'react';
 import { Modal, Button } from 'antd';
 import PropTypes from 'prop-types';
+import i18n from '../../../i18n';
 
 // 嵌入到 BrowserRouter 内部，覆盖掉默认的 window.confirm
 // http://reacttraining.cn/web/api/BrowserRouter/getUserConfirmation-func

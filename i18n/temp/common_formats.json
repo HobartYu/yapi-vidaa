@@ -1,0 +1,42 @@
+{
+	"zh": {
+		"common.formats.410256-0": "域名",
+		"common.formats.410256-1": "ipv4 地址",
+		"common.formats.410256-2": "图片链接",
+		"common.formats.410256-3": "图片",
+		"common.formats.410256-4": "邮箱",
+		"common.formats.410256-5": "段落",
+		"common.formats.410256-6": "句子",
+		"common.formats.410256-7": "单词",
+		"common.formats.410256-8": "标题",
+		"common.formats.410256-9": "姓名",
+		"common.formats.410256-10": "地区",
+		"common.formats.410256-11": "省份",
+		"common.formats.410256-12": "城市名",
+		"common.formats.410256-13": "国家",
+		"common.formats.410256-14": "手机号",
+		"common.formats.410256-15": "中文本",
+		"common.formats.410256-16": "中文姓名",
+		"common.formats.410256-17": "中文标题"
+	},
+	"en": {
+		"common.formats.410256-0": "Domain name",
+		"common.formats.410256-1": "IPv4 address",
+		"common.formats.410256-2": "Image link",
+		"common.formats.410256-3": "Image",
+		"common.formats.410256-4": "Mailbox",
+		"common.formats.410256-5": "Paragraph",
+		"common.formats.410256-6": "Sentence",
+		"common.formats.410256-7": "Word",
+		"common.formats.410256-8": "Title",
+		"common.formats.410256-9": "Name",
+		"common.formats.410256-10": "Region",
+		"common.formats.410256-11": "Province",
+		"common.formats.410256-12": "City name",
+		"common.formats.410256-13": "Country",
+		"common.formats.410256-14": "Mobile phone number",
+		"common.formats.410256-15": "Chinese text",
+		"common.formats.410256-16": "Chinese name",
+		"common.formats.410256-17": "Chinese title"
+	}
+}

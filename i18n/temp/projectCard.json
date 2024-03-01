@@ -1,0 +1,30 @@
+{
+	"zh": {
+		"ProjectCard.ProjectCard.841988-0": "项目复制成功",
+		"ProjectCard.ProjectCard.841988-1": "确认复制",
+		"ProjectCard.ProjectCard.841988-2": "项目吗？",
+		"ProjectCard.ProjectCard.841988-3": "确认",
+		"ProjectCard.ProjectCard.841988-4": "取消",
+		"ProjectCard.ProjectCard.841988-5": "该操作将会复制",
+		"ProjectCard.ProjectCard.841988-11": "下的所有接口集合，但不包括测试集合中的接口",
+		"ProjectCard.ProjectCard.841988-6": "项目名称:",
+		"ProjectCard.ProjectCard.841988-7": "项目名称",
+		"ProjectCard.ProjectCard.841988-8": "取消关注",
+		"ProjectCard.ProjectCard.841988-9": "添加关注",
+		"ProjectCard.ProjectCard.841988-10": "复制项目"
+	},
+	"en": {
+		"ProjectCard.ProjectCard.841988-0": "Project copied successfully",
+		"ProjectCard.ProjectCard.841988-1": "Are you sure to copy the ",
+		"ProjectCard.ProjectCard.841988-2": " project?",
+		"ProjectCard.ProjectCard.841988-3": "Confirm",
+		"ProjectCard.ProjectCard.841988-4": "Cancel",
+		"ProjectCard.ProjectCard.841988-5": "This operation will copy all interface collections under ",
+		"ProjectCard.ProjectCard.841988-11": ", but does not include the interfaces in the test collection.",
+		"ProjectCard.ProjectCard.841988-6": "Project name:",
+		"ProjectCard.ProjectCard.841988-7": "Project name",
+		"ProjectCard.ProjectCard.841988-8": "Cancel Follow",
+		"ProjectCard.ProjectCard.841988-9": "Add Follow",
+		"ProjectCard.ProjectCard.841988-10": "Copy Project"
+	}
+}

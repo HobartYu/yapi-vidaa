@@ -44,7 +44,7 @@ class MockList extends Component {
         <Search
           onChange={this.onFilter}
           value={filter}
-          placeholder={i18n('ModalPostman.MockList.212312-0')}
+          placeholder={i18n('ModalPostman.MethodsList.057532-15')}
           className="mock-search"
         />
         {list.map((item, index) => {

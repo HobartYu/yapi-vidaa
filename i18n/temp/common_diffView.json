@@ -1,0 +1,30 @@
+{
+	"zh": {
+		"common.diff-view.061781-0": "必需",
+		"common.diff-view.061781-1": "非必需",
+		"common.diff-view.061781-2": "文本",
+		"common.diff-view.061781-3": "文件",
+		"common.diff-view.061781-4": "未完成",
+		"common.diff-view.061781-5": "已完成",
+		"common.diff-view.061781-6": "wiki更新",
+		"common.diff-view.061781-7": "Api 路径",
+		"common.diff-view.061781-8": "Api 名称",
+		"common.diff-view.061781-9": "分类 id",
+		"common.diff-view.061781-10": "接口状态",
+		"common.diff-view.061781-11": "接口tag"
+	},
+	"en": {
+		"common.diff-view.061781-0": "required",
+		"common.diff-view.061781-1": "not required",
+		"common.diff-view.061781-2": "text",
+		"common.diff-view.061781-3": "file",
+		"common.diff-view.061781-4": "Incomplete",
+		"common.diff-view.061781-5": "Completed",
+		"common.diff-view.061781-6": "Wiki updates",
+		"common.diff-view.061781-7": "Api path",
+		"common.diff-view.061781-8": "Api name",
+		"common.diff-view.061781-9": "Category ID",
+		"common.diff-view.061781-10": "Interface status",
+		"common.diff-view.061781-11": "Interface tag"
+	}
+}

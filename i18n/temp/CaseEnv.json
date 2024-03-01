@@ -1,0 +1,12 @@
+{
+	"zh": {
+		"CaseEnv.index.908808-0": "选择测试用例环境",
+		"CaseEnv.index.908808-1": "默认使用测试用例选择的环境",
+		"CaseEnv.index.908808-2": "默认环境"
+	},
+	"en": {
+		"CaseEnv.index.908808-0": "Select test case environment",
+		"CaseEnv.index.908808-1": "The environment selected by the test case is used by default",
+		"CaseEnv.index.908808-2": "Default environment"
+	}
+}

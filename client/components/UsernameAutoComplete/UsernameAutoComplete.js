@@ -2,6 +2,7 @@ import React, { PureComponent as Component } from 'react';
 import PropTypes from 'prop-types';
 import { Select } from 'antd';
 import axios from 'axios';
+import i18n from '../../../i18n';
 
 const Option = Select.Option;
 

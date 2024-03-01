@@ -1,0 +1,42 @@
+{
+	"zh": {
+		"statisticsClientPage.index.905699-0": "分组总数",
+		"statisticsClientPage.index.905699-1": "统计yapi中一共开启了多少可见的公共分组",
+		"statisticsClientPage.index.905699-2": "项目总数",
+		"statisticsClientPage.index.905699-3": "统计yapi中建立的所有项目总数",
+		"statisticsClientPage.index.905699-4": "接口总数",
+		"statisticsClientPage.index.905699-5": "统计yapi所有项目中的所有接口总数",
+		"statisticsClientPage.index.905699-6": "测试接口总数",
+		"statisticsClientPage.index.905699-7": "统计yapi所有项目中的所有测试接口总数",
+		"statisticsClientPage.index.905699-8": "操作系统类型",
+		"statisticsClientPage.index.905699-9": "操作系统类型,返回值有'darwin', 'freebsd', 'linux', 'sunos' , 'win32'",
+		"statisticsClientPage.index.905699-10": "cpu负载",
+		"statisticsClientPage.index.905699-11": "cpu的总负载情况",
+		"statisticsClientPage.index.905699-12": "系统空闲内存总量 / 内存总量",
+		"statisticsClientPage.index.905699-13": "邮箱状态",
+		"statisticsClientPage.index.905699-14": "检测配置文件中配置邮箱的状态",
+		"statisticsClientPage.index.905699-15": "系统信息",
+		"statisticsClientPage.index.905699-16": "系统状况",
+		"statisticsClientPage.index.905699-17": "数据统计"
+	},
+	"en": {
+		"statisticsClientPage.index.905699-0": "Total number of groups",
+		"statisticsClientPage.index.905699-1": "How many visible public groups have been enabled in yapi",
+		"statisticsClientPage.index.905699-2": "Total number of projects",
+		"statisticsClientPage.index.905699-3": "Count the total number of all projects established in yapi",
+		"statisticsClientPage.index.905699-4": "Total number of interfaces",
+		"statisticsClientPage.index.905699-5": "Count the total number of interfaces in all Yapi projects",
+		"statisticsClientPage.index.905699-6": "Total number of test interfaces",
+		"statisticsClientPage.index.905699-7": "Count the total number of all test interfaces in all Yapi projects",
+		"statisticsClientPage.index.905699-8": "Operating System Type",
+		"statisticsClientPage.index.905699-9": "Operating system type, return values include 'Darwin', 'freebsd', 'Linux', 'sunos',' win32 '",
+		"statisticsClientPage.index.905699-10": "CPU load",
+		"statisticsClientPage.index.905699-11": "The total load situation of the CPU",
+		"statisticsClientPage.index.905699-12": "Total System Idle Memory/Total Memory",
+		"statisticsClientPage.index.905699-13": "Email status",
+		"statisticsClientPage.index.905699-14": "Detect the status of configured email in the configuration file",
+		"statisticsClientPage.index.905699-15": "system information ",
+		"statisticsClientPage.index.905699-16": "System condition",
+		"statisticsClientPage.index.905699-17": "Data statistics"
+	}
+}

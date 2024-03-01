@@ -1,0 +1,16 @@
+{
+	"zh": {
+		"ProjectRequest.ProjectRequest.661195-0": "保存成功",
+		"ProjectRequest.ProjectRequest.661195-1": "保存失败,",
+		"ProjectRequest.ProjectRequest.661195-2": "请求参数处理脚本",
+		"ProjectRequest.ProjectRequest.661195-3": "响应数据处理脚本",
+		"ProjectRequest.ProjectRequest.661195-4": "保存"
+	},
+	"en": {
+		"ProjectRequest.ProjectRequest.661195-0": "Save successful",
+		"ProjectRequest.ProjectRequest.661195-1": "Save failed,",
+		"ProjectRequest.ProjectRequest.661195-2": "Request parameter processing script",
+		"ProjectRequest.ProjectRequest.661195-3": "Response data processing script",
+		"ProjectRequest.ProjectRequest.661195-4": "Save"
+	}
+}

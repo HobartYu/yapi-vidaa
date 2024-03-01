@@ -1,0 +1,22 @@
+{
+	"zh": {
+		"InterfaceCol.ImportInterface.091168-0": "接口名称",
+		"InterfaceCol.ImportInterface.091168-1": "接口路径",
+		"InterfaceCol.ImportInterface.091168-2": "请求方法",
+		"InterfaceCol.ImportInterface.091168-3": "状态",
+		"InterfaceCol.ImportInterface.091168-4": "筛选满足条件的接口集合",
+		"InterfaceCol.ImportInterface.091168-5": "已完成",
+		"InterfaceCol.ImportInterface.091168-6": "未完成",
+		"InterfaceCol.ImportInterface.091168-7": "选择要导入的项目："
+	},
+	"en": {
+		"InterfaceCol.ImportInterface.091168-0": "Interface Name",
+		"InterfaceCol.ImportInterface.091168-1": "Interface path",
+		"InterfaceCol.ImportInterface.091168-2": "Request Method",
+		"InterfaceCol.ImportInterface.091168-3": "status",
+		"InterfaceCol.ImportInterface.091168-4": "Filter the collection of interfaces that meet the criteria",
+		"InterfaceCol.ImportInterface.091168-5": "Completed",
+		"InterfaceCol.ImportInterface.091168-6": "Incomplete",
+		"InterfaceCol.ImportInterface.091168-7": "Select the project to import:"
+	}
+}

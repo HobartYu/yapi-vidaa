@@ -1,0 +1,32 @@
+{
+	"zh": {
+		"User.List.531922-0": "已删除此用户",
+		"User.List.531922-1": "用户管理",
+		"User.List.531922-2": "用户名",
+		"User.List.531922-3": "用户角色",
+		"User.List.531922-4": "更新日期",
+		"User.List.531922-5": "功能",
+		"User.List.531922-6": "确认删除此用户?",
+		"User.List.531922-7": "确定",
+		"User.List.531922-8": "取消",
+		"User.List.531922-9": "删除",
+		"User.List.531922-10": "用户总数：(number) 位",
+		"User.List.531922-11": "位",
+		"User.List.531922-12": "请输入用户名"
+	},
+	"en": {
+		"User.List.531922-0": "This user has been deleted",
+		"User.List.531922-1": "User management ",
+		"User.List.531922-2": "User name",
+		"User.List.531922-3": "User Role",
+		"User.List.531922-4": "Update date",
+		"User.List.531922-5": "Function",
+		"User.List.531922-6": "Are you sure you want to delete this user?",
+		"User.List.531922-7": "confirm",
+		"User.List.531922-8": "cancel",
+		"User.List.531922-9": "delete",
+		"User.List.531922-10": "Total number of users: (number) people",
+		"User.List.531922-11": "people",
+		"User.List.531922-12": "Please enter user name"
+	}
+}
